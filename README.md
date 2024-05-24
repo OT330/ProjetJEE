@@ -18,13 +18,3 @@ Ce projet est la partie backend de projet Gestion de l'Artisanat vise à créer 
   - Consultation des détails des produits et des magasins.
   - Passage de commandes avec suivi.
 
-<<<<<<< HEAD
-## Configuration du Projet
-
-1. **Clonage du Projet :**
-   ```bash
-   git clone https://github.com/ProjectsAcademic/Artisanat_Backend_JAVA_EE.git
-"# jeee" 
-"# je" 
-=======
->>>>>>> FrontJEE/master
